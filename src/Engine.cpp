@@ -40,10 +40,12 @@ bool Engine::Init() {
     return false;
   Setting::GetInstance()->Init();
   Levels::GetInstance()->Init();
+  Music::GetInstance()->PlayBG();
   return m_IsRunning = true;
 }
 
 void Engine::Update() {
+
   float dt = Timer::GetInstance()->GetDelteTime();
   if (m_IsPlay)
     Play::GetInstance()->Update(dt);

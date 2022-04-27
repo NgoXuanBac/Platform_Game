@@ -7,6 +7,7 @@ class Music {
 private:
   static Music *s_Instance;
   std::map<std::string, Mix_Chunk *> m_Musics;
+  Mix_Music *m_MusicBG;
 
 public:
   static Music *GetInstance() {
@@ -16,6 +17,7 @@ public:
   bool Init();
   inline void Stop() { Mix_HaltChannel(-1); }
   void Play(std::string id);
+  void PlayBG();
   void Clear();
 };
 #endif

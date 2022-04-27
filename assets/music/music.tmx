@@ -3,4 +3,5 @@
     <music id="Jump Sound" source ="assets/music/jump.wav"/>
     <music id="Coin Sound" source ="assets/music/coin.wav"/>
     <music id="Fall Sound" source ="assets/music/touch.wav"/>
+    <music id="Bg Sound" source ="assets/music/bg_sound.mp3"/>
 </musics>

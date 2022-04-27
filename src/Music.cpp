@@ -19,8 +19,13 @@ bool Music::Init() {
   return true;
 }
 bool Music::Load(std::string id, std::string source) {
-  Mix_Chunk *chunk = Mix_LoadWAV(source.c_str());
-  m_Musics[id] = chunk;
+  if (id != "Bg Sound") {
+    Mix_Chunk *chunk = Mix_LoadWAV(source.c_str());
+    m_Musics[id] = chunk;
+  } else {
+    m_MusicBG = Mix_LoadMUS(source.c_str());
+  }
+
   return true;
 }
 void Music::Play(std::string id) {
@@ -33,4 +38,8 @@ void Music::Clear() {
     it->second = nullptr;
   }
   m_Musics.clear();
+}
+void Music::PlayBG() {
+  Mix_VolumeMusic(MIX_MAX_VOLUME / 15);
+  Mix_PlayMusic(m_MusicBG, 1);
 }
