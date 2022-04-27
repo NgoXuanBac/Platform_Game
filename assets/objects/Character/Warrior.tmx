@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <sequence id="Warrior idle" frameCount="5" speed="5" width="64" height="40">
+      <frame textureID="Warrior idle1"/>
+      <frame textureID="Warrior idle2"/>
+      <frame textureID="Warrior idle3"/>
+      <frame textureID="Warrior idle4"/>
+      <frame textureID="Warrior idle5"/>
+    </sequence>
+
+    <sequence id="Warrior run" frameCount="6" speed="6" width="64" height ="40">
+      <frame textureID="Warrior run1"/>
+      <frame textureID="Warrior run2"/>
+      <frame textureID="Warrior run3"/>
+      <frame textureID="Warrior run4"/>
+      <frame textureID="Warrior run5"/>
+      <frame textureID="Warrior run6"/>
+    </sequence> 
+
+    <sequence id="Warrior jump" frameCount="3" speed="3" width="64" height ="40">
+      <frame textureID="Warrior jump1"/>
+      <frame textureID="Warrior jump2"/>
+      <frame textureID="Warrior jump3"/>
+    </sequence> 
+
+    <sequence id="Warrior fall" frameCount="1" speed="1" width="64" height ="40">
+      <frame textureID="Warrior fall1"/>
+    </sequence> 
+
+    <sequence id="Warrior ground" frameCount="1" speed="1" width="64" height ="40">
+      <frame textureID="Warrior ground1"/>
+    </sequence>
+    
+    <sequence id="Warrior hit" frameCount="4" speed="4" width="64" height ="40">
+      <frame textureID="Warrior hit1"/>
+      <frame textureID="Warrior hit2"/>
+      <frame textureID="Warrior hit3"/>
+      <frame textureID="Warrior hit4"/>
+    </sequence>
+
+    <sequence id="Warrior dead hit" frameCount="4" speed="4" width="64" height ="40">
+      <frame textureID="Warrior dead hit1"/>
+      <frame textureID="Warrior dead hit2"/>
+      <frame textureID="Warrior dead hit3"/>
+      <frame textureID="Warrior dead hit4"/>
+    </sequence>
+    
+    <sequence id="Warrior dead ground" frameCount="4" speed="4" width="64" height ="40">
+      <frame textureID="Warrior dead ground1"/>
+      <frame textureID="Warrior dead ground2"/>
+      <frame textureID="Warrior dead ground3"/>
+      <frame textureID="Warrior dead ground4"/>
+    </sequence>
+    
+    <sequence id="Warrior idle sword" frameCount="5" speed="5" width="64" height ="40">
+      <frame textureID="Warrior Idle Sword1"/>
+      <frame textureID="Warrior Idle Sword2"/>
+      <frame textureID="Warrior Idle Sword3"/>
+      <frame textureID="Warrior Idle Sword4"/>
+      <frame textureID="Warrior Idle Sword5"/>
+    </sequence>
+
+    <sequence id="Warrior run sword" frameCount="6" speed="6" width="64" height ="40">
+      <frame textureID="Warrior Run Sword1"/>
+      <frame textureID="Warrior Run Sword2"/>
+      <frame textureID="Warrior Run Sword3"/>
+      <frame textureID="Warrior Run Sword4"/>
+      <frame textureID="Warrior Run Sword5"/>
+      <frame textureID="Warrior Run Sword6"/>
+    </sequence>
+
+    <sequence id="Warrior jump sword" frameCount="3" speed="3" width="64" height ="40">
+      <frame textureID="Warrior Jump Sword1"/>
+      <frame textureID="Warrior Jump Sword2"/>
+      <frame textureID="Warrior Jump Sword3"/>
+    </sequence>
+
+    <sequence id="Warrior fall sword" frameCount="1" speed="1" width="64" height ="40">
+      <frame textureID="Warrior Fall Sword1"/>
+    </sequence>
+
+    <sequence id="Warrior ground sword" frameCount="1" speed="1" width="64" height ="40">
+      <frame textureID="Warrior Ground Sword1"/>
+    </sequence>
+
+    <sequence id="Warrior hit sword" frameCount="4" speed="4" width="64" height ="40">
+      <frame textureID="Warrior Hit Sword1"/>
+      <frame textureID="Warrior Hit Sword2"/>
+      <frame textureID="Warrior Hit Sword3"/>
+      <frame textureID="Warrior Hit Sword4"/>
+    </sequence>
+
+    <sequence id="Warrior attack1" frameCount="3" speed="4" width="64" height ="40">
+      <frame textureID="Warrior Attack_1 1"/>
+      <frame textureID="Warrior Attack_1 2"/>
+      <frame textureID="Warrior Attack_1 3"/>
+    </sequence>
+
+    <sequence id="Warrior attack2" frameCount="3" speed="4" width="64" height ="40">
+      <frame textureID="Warrior Attack_2 1"/>
+      <frame textureID="Warrior Attack_2 2"/>
+      <frame textureID="Warrior Attack_2 3"/>
+    </sequence>
+
+    <sequence id="Warrior attack3" frameCount="3" speed="4" width="64" height ="40">
+      <frame textureID="Warrior Attack_3 1"/>
+      <frame textureID="Warrior Attack_3 2"/>
+      <frame textureID="Warrior Attack_3 3"/>
+    </sequence>
+
+    <sequence id="Warrior air attack1" frameCount="3" speed="5" width="64" height ="40">
+      <frame textureID="Warrior Air Attack_1 1"/>
+      <frame textureID="Warrior Air Attack_1 2"/>
+      <frame textureID="Warrior Air Attack_1 3"/>
+    </sequence>
+
+    <sequence id="Warrior air attack2" frameCount="3" speed="5" width="64" height ="40">
+      <frame textureID="Warrior Air Attack_2 1"/>
+      <frame textureID="Warrior Air Attack_2 2"/>
+      <frame textureID="Warrior Air Attack_2 3"/>
+    </sequence>
+
+    <sequence id="Warrior throw sword" frameCount="3" speed="3" width="64" height ="40">
+      <frame textureID="Warrior Throw Sword1"/>
+      <frame textureID="Warrior Throw Sword1"/>
+      <frame textureID="Warrior Throw Sword1"/>
+    </sequence>
+
+</animations>

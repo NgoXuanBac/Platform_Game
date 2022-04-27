@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <!--Enemy1-->
+    <sequence id="Enemy1 idle" frameCount="9" speed="5" width="72" height="32">
+      <frame textureID="Enemy1 idle1"/>
+      <frame textureID="Enemy1 idle2"/>
+      <frame textureID="Enemy1 idle3"/>
+      <frame textureID="Enemy1 idle4"/>
+      <frame textureID="Enemy1 idle5"/>
+      <frame textureID="Enemy1 idle6"/>
+      <frame textureID="Enemy1 idle7"/>
+      <frame textureID="Enemy1 idle8"/>
+      <frame textureID="Enemy1 idle9"/>
+    </sequence>
+
+    <sequence id="Enemy1 run" frameCount="6" speed="6" width="72" height ="32">
+      <frame textureID="Enemy1 run1"/>
+      <frame textureID="Enemy1 run2"/>
+      <frame textureID="Enemy1 run3"/>
+      <frame textureID="Enemy1 run4"/>
+      <frame textureID="Enemy1 run5"/>
+      <frame textureID="Enemy1 run6"/>
+    </sequence> 
+
+    <sequence id="Enemy1 jump" frameCount="3" speed="3" width="72" height ="32">
+      <frame textureID="Enemy1 jump1"/>
+      <frame textureID="Enemy1 jump2"/>
+      <frame textureID="Enemy1 jump3"/>
+    </sequence> 
+
+    <sequence id="Enemy1 fall" frameCount="1" speed="1" width="72" height ="32">
+      <frame textureID="Enemy1 fall1"/>
+    </sequence> 
+  
+    <sequence id="Enemy1 hit" frameCount="4" speed="6" width="72" height ="32">
+      <frame textureID="Enemy1 hit1"/>
+      <frame textureID="Enemy1 hit2"/>
+      <frame textureID="Enemy1 hit3"/>
+      <frame textureID="Enemy1 hit4"/>
+    </sequence>
+
+    <sequence id="Enemy1 dead hit" frameCount="4" speed="4" width="72" height ="32">
+      <frame textureID="Enemy1 dead hit1"/>
+      <frame textureID="Enemy1 dead hit2"/>
+      <frame textureID="Enemy1 dead hit3"/>
+      <frame textureID="Enemy1 dead hit4"/>
+    </sequence>
+    
+    <sequence id="Enemy1 dead ground" frameCount="4" speed="4" width="72" height ="32">
+      <frame textureID="Enemy1 dead ground1"/>
+      <frame textureID="Enemy1 dead ground2"/>
+      <frame textureID="Enemy1 dead ground3"/>
+      <frame textureID="Enemy1 dead ground4"/>
+    </sequence> 
+
+    <sequence id="Enemy1 attack" frameCount="4" speed="6" width="72" height ="32">
+      <frame textureID="Enemy1 attack1"/>
+      <frame textureID="Enemy1 attack2"/>
+      <frame textureID="Enemy1 attack3"/>
+      <frame textureID="Enemy1 attack4"/>
+    </sequence>
+    <!--Enemy2-->
+    <sequence id="Enemy2 idle" frameCount="8" speed="5" width="34" height="30">
+      <frame textureID="Enemy2 idle1"/>
+      <frame textureID="Enemy2 idle2"/>
+      <frame textureID="Enemy2 idle3"/>
+      <frame textureID="Enemy2 idle4"/>
+      <frame textureID="Enemy2 idle5"/>
+      <frame textureID="Enemy2 idle6"/>
+      <frame textureID="Enemy2 idle7"/>
+      <frame textureID="Enemy2 idle8"/>
+    </sequence>
+
+    <sequence id="Enemy2 run" frameCount="6" speed="6" width="34" height ="30">
+      <frame textureID="Enemy2 run1"/>
+      <frame textureID="Enemy2 run2"/>
+      <frame textureID="Enemy2 run3"/>
+      <frame textureID="Enemy2 run4"/>
+      <frame textureID="Enemy2 run5"/>
+      <frame textureID="Enemy2 run6"/>
+    </sequence> 
+
+    <sequence id="Enemy2 jump" frameCount="3" speed="3" width="34" height ="30">
+      <frame textureID="Enemy2 jump1"/>
+      <frame textureID="Enemy2 jump2"/>
+      <frame textureID="Enemy2 jump3"/>
+    </sequence> 
+
+    <sequence id="Enemy2 fall" frameCount="1" speed="1" width="34" height ="30">
+      <frame textureID="Enemy2 fall1"/>
+    </sequence> 
+  
+    <sequence id="Enemy2 hit" frameCount="4" speed="6" width="34" height ="30">
+      <frame textureID="Enemy2 hit1"/>
+      <frame textureID="Enemy2 hit2"/>
+      <frame textureID="Enemy2 hit3"/>
+      <frame textureID="Enemy2 hit4"/>
+    </sequence>
+
+    <sequence id="Enemy2 dead hit" frameCount="4" speed="4" width="34" height ="30">
+      <frame textureID="Enemy2 dead hit1"/>
+      <frame textureID="Enemy2 dead hit2"/>
+      <frame textureID="Enemy2 dead hit3"/>
+      <frame textureID="Enemy2 dead hit4"/>
+    </sequence>
+    
+    <sequence id="Enemy2 dead ground" frameCount="4" speed="4" width="34" height ="30">
+      <frame textureID="Enemy2 dead ground1"/>
+      <frame textureID="Enemy2 dead ground2"/>
+      <frame textureID="Enemy2 dead ground3"/>
+      <frame textureID="Enemy2 dead ground4"/>
+    </sequence>
+
+    <sequence id="Enemy2 attack" frameCount="4" speed="6" width="34" height ="30">
+      <frame textureID="Enemy2 attack1"/>
+      <frame textureID="Enemy2 attack2"/>
+      <frame textureID="Enemy2 attack3"/>
+      <frame textureID="Enemy2 attack4"/>
+    </sequence>
+
+    <!--Enemy3-->
+    <sequence id="Enemy3 idle" frameCount="8" speed="5" width="34" height="30">
+      <frame textureID="Enemy3 idle1"/>
+      <frame textureID="Enemy3 idle2"/>
+      <frame textureID="Enemy3 idle3"/>
+      <frame textureID="Enemy3 idle4"/>
+      <frame textureID="Enemy3 idle5"/>
+      <frame textureID="Enemy3 idle6"/>
+      <frame textureID="Enemy3 idle7"/>
+      <frame textureID="Enemy3 idle8"/>
+    </sequence>
+
+    <sequence id="Enemy3 run" frameCount="6" speed="6" width="34" height ="30">
+      <frame textureID="Enemy3 run1"/>
+      <frame textureID="Enemy3 run2"/>
+      <frame textureID="Enemy3 run3"/>
+      <frame textureID="Enemy3 run4"/>
+      <frame textureID="Enemy3 run5"/>
+      <frame textureID="Enemy3 run6"/>
+    </sequence> 
+
+    <sequence id="Enemy3 jump" frameCount="3" speed="3" width="34" height ="30">
+      <frame textureID="Enemy3 jump1"/>
+      <frame textureID="Enemy3 jump2"/>
+      <frame textureID="Enemy3 jump3"/>
+    </sequence> 
+
+    <sequence id="Enemy3 fall" frameCount="1" speed="1" width="34" height ="30">
+      <frame textureID="Enemy3 fall1"/>
+    </sequence> 
+  
+    <sequence id="Enemy3 hit" frameCount="4" speed="6" width="34" height ="30">
+      <frame textureID="Enemy3 hit1"/>
+      <frame textureID="Enemy3 hit2"/>
+      <frame textureID="Enemy3 hit3"/>
+      <frame textureID="Enemy3 hit4"/>
+    </sequence>
+
+    <sequence id="Enemy3 dead hit" frameCount="4" speed="4" width="34" height ="30">
+      <frame textureID="Enemy3 dead hit1"/>
+      <frame textureID="Enemy3 dead hit2"/>
+      <frame textureID="Enemy3 dead hit3"/>
+      <frame textureID="Enemy3 dead hit4"/>
+    </sequence>
+    
+    <sequence id="Enemy3 dead ground" frameCount="4" speed="4" width="34" height ="30">
+      <frame textureID="Enemy3 dead ground1"/>
+      <frame textureID="Enemy3 dead ground2"/>
+      <frame textureID="Enemy3 dead ground3"/>
+      <frame textureID="Enemy3 dead ground4"/>
+    </sequence>
+
+    <sequence id="Enemy3 attack" frameCount="5" speed="6" width="34" height ="30">
+      <frame textureID="Enemy3 attack1"/>
+      <frame textureID="Enemy3 attack2"/>
+      <frame textureID="Enemy3 attack3"/>
+      <frame textureID="Enemy3 attack4"/>
+      <frame textureID="Enemy3 attack5"/>
+    </sequence>    
+
+
+</animations>

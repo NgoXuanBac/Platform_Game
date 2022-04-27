@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <sequence id="Enemy1 Effect Attack" frameCount="3" speed="5" width="118" height="24">
+      <frame textureID="Enemy1 attack effect1"/>
+      <frame textureID="Enemy1 attack effect2"/>
+      <frame textureID="Enemy1 attack effect3"/>
+    </sequence>
+    
+    <sequence id="Enemy2 Effect Attack" frameCount="3" speed="5" width="16" height="12">
+      <frame textureID="Enemy2 attack effect1"/>
+      <frame textureID="Enemy2 attack effect2"/>
+      <frame textureID="Enemy2 attack effect3"/>
+    </sequence>
+    
+    <sequence id="Enemy3 Effect Attack" frameCount="4" speed="6" width="22" height="24">
+      <frame textureID="Enemy3 attack effect1"/>
+      <frame textureID="Enemy3 attack effect2"/>
+      <frame textureID="Enemy3 attack effect3"/>
+      <frame textureID="Enemy3 attack effect4"/>
+    </sequence>
+</animations>

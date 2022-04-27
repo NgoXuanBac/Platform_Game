@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <!--Charater-->
+        <!--Warrior-->
+        <texture id="Warrior idle1" source= "assets/objects/Character/Captain Clown Nose without Sword/01-Idle/Idle 01.png"/>
+        <texture id="Warrior idle2" source= "assets/objects/Character/Captain Clown Nose without Sword/01-Idle/Idle 02.png"/>
+        <texture id="Warrior idle3" source= "assets/objects/Character/Captain Clown Nose without Sword/01-Idle/Idle 03.png"/>
+        <texture id="Warrior idle4" source= "assets/objects/Character/Captain Clown Nose without Sword/01-Idle/Idle 04.png"/>
+        <texture id="Warrior idle5" source= "assets/objects/Character/Captain Clown Nose without Sword/01-Idle/Idle 05.png"/>
+
+        <texture id="Warrior run1" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 01.png"/>
+        <texture id="Warrior run2" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 02.png"/>
+        <texture id="Warrior run3" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 03.png"/>
+        <texture id="Warrior run4" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 04.png"/>
+        <texture id="Warrior run5" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 05.png"/>
+        <texture id="Warrior run6" source= "assets/objects/Character/Captain Clown Nose without Sword/02-Run/Run 06.png"/>
+
+        <texture id="Warrior jump1" source= "assets/objects/Character/Captain Clown Nose without Sword/03-Jump/Jump 01.png"/>
+        <texture id="Warrior jump2" source= "assets/objects/Character/Captain Clown Nose without Sword/03-Jump/Jump 02.png"/>
+        <texture id="Warrior jump3" source= "assets/objects/Character/Captain Clown Nose without Sword/03-Jump/Jump 03.png"/>
+
+        <texture id="Warrior fall1" source= "assets/objects/Character/Captain Clown Nose without Sword/04-Fall/Fall 01.png"/>
+        
+        <texture id="Warrior ground1" source= "assets/objects/Character/Captain Clown Nose without Sword/05-Ground/Ground 01.png"/>
+        <texture id="Warrior ground2" source= "assets/objects/Character/Captain Clown Nose without Sword/05-Ground/Ground 02.png"/>
+        
+        <texture id="Warrior hit1" source= "assets/objects/Character/Captain Clown Nose without Sword/06-Hit/Hit 01.png"/>
+        <texture id="Warrior hit2" source= "assets/objects/Character/Captain Clown Nose without Sword/06-Hit/Hit 02.png"/>
+        <texture id="Warrior hit3" source= "assets/objects/Character/Captain Clown Nose without Sword/06-Hit/Hit 03.png"/>
+        <texture id="Warrior hit4" source= "assets/objects/Character/Captain Clown Nose without Sword/06-Hit/Hit 04.png"/>
+
+        <texture id="Warrior dead hit1" source= "assets/objects/Character/Captain Clown Nose without Sword/07-Dead Hit/Dead Hit 01.png"/>
+        <texture id="Warrior dead hit2" source= "assets/objects/Character/Captain Clown Nose without Sword/07-Dead Hit/Dead Hit 02.png"/>
+        <texture id="Warrior dead hit3" source= "assets/objects/Character/Captain Clown Nose without Sword/07-Dead Hit/Dead Hit 03.png"/>
+        <texture id="Warrior dead hit4" source= "assets/objects/Character/Captain Clown Nose without Sword/07-Dead Hit/Dead Hit 04.png"/>
+        
+        <texture id="Warrior dead ground1" source= "assets/objects/Character/Captain Clown Nose without Sword/08-Dead Ground/Dead Ground 01.png"/>
+        <texture id="Warrior dead ground2" source= "assets/objects/Character/Captain Clown Nose without Sword/08-Dead Ground/Dead Ground 02.png"/>
+        <texture id="Warrior dead ground3" source= "assets/objects/Character/Captain Clown Nose without Sword/08-Dead Ground/Dead Ground 03.png"/>
+        <texture id="Warrior dead ground4" source= "assets/objects/Character/Captain Clown Nose without Sword/08-Dead Ground/Dead Ground 04.png"/>
+
+        <texture id="Warrior Idle Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 01.png"/>
+        <texture id="Warrior Idle Sword2" source= "assets/objects/Character/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 02.png"/>
+        <texture id="Warrior Idle Sword3" source= "assets/objects/Character/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 03.png"/>
+        <texture id="Warrior Idle Sword4" source= "assets/objects/Character/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 04.png"/>
+        <texture id="Warrior Idle Sword5" source= "assets/objects/Character/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 05.png"/>
+
+        <texture id="Warrior Run Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 01.png"/>
+        <texture id="Warrior Run Sword2" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 02.png"/>
+        <texture id="Warrior Run Sword3" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 03.png"/>
+        <texture id="Warrior Run Sword4" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 04.png"/>
+        <texture id="Warrior Run Sword5" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 05.png"/>
+        <texture id="Warrior Run Sword6" source= "assets/objects/Character/Captain Clown Nose with Sword/10-Run Sword/Run Sword 06.png"/>
+
+        <texture id="Warrior Jump Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 01.png"/>
+        <texture id="Warrior Jump Sword2" source= "assets/objects/Character/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 02.png"/>
+        <texture id="Warrior Jump Sword3" source= "assets/objects/Character/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 03.png"/>
+
+        <texture id="Warrior Fall Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/12-Fall Sword/Fall Sword 01.png"/>
+        
+        <texture id="Warrior Ground Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/13-Ground Sword/Ground Sword 01.png"/>
+        
+        <texture id="Warrior Hit Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/14-Hit Sword/Hit Sword 01.png"/>
+        <texture id="Warrior Hit Sword2" source= "assets/objects/Character/Captain Clown Nose with Sword/14-Hit Sword/Hit Sword 02.png"/>
+        <texture id="Warrior Hit Sword3" source= "assets/objects/Character/Captain Clown Nose with Sword/14-Hit Sword/Hit Sword 03.png"/>
+        <texture id="Warrior Hit Sword4" source= "assets/objects/Character/Captain Clown Nose with Sword/14-Hit Sword/Hit Sword 04.png"/>
+
+        <texture id="Warrior Attack_1 1" source= "assets/objects/Character/Captain Clown Nose with Sword/15-Attack 1/Attack 1 01.png"/>
+        <texture id="Warrior Attack_1 2" source= "assets/objects/Character/Captain Clown Nose with Sword/15-Attack 1/Attack 1 02.png"/>
+        <texture id="Warrior Attack_1 3" source= "assets/objects/Character/Captain Clown Nose with Sword/15-Attack 1/Attack 1 03.png"/>
+
+        <texture id="Warrior Attack_2 1" source= "assets/objects/Character/Captain Clown Nose with Sword/16-Attack 2/Attack 2 01.png"/>
+        <texture id="Warrior Attack_2 2" source= "assets/objects/Character/Captain Clown Nose with Sword/16-Attack 2/Attack 2 02.png"/>
+        <texture id="Warrior Attack_2 3" source= "assets/objects/Character/Captain Clown Nose with Sword/16-Attack 2/Attack 2 03.png"/>
+         
+        <texture id="Warrior Attack_3 1" source= "assets/objects/Character/Captain Clown Nose with Sword/17-Attack 3/Attack 3 01.png"/>
+        <texture id="Warrior Attack_3 2" source= "assets/objects/Character/Captain Clown Nose with Sword/17-Attack 3/Attack 3 02.png"/>
+        <texture id="Warrior Attack_3 3" source= "assets/objects/Character/Captain Clown Nose with Sword/17-Attack 3/Attack 3 03.png"/>
+
+        <texture id="Warrior Air Attack_1 1" source= "assets/objects/Character/Captain Clown Nose with Sword/18-Air Attack 1/Air Attack 1 01.png"/>
+        <texture id="Warrior Air Attack_1 2" source= "assets/objects/Character/Captain Clown Nose with Sword/18-Air Attack 1/Air Attack 1 02.png"/>
+        <texture id="Warrior Air Attack_1 3" source= "assets/objects/Character/Captain Clown Nose with Sword/18-Air Attack 1/Air Attack 1 03.png"/>
+        
+        <texture id="Warrior Air Attack_2 1" source= "assets/objects/Character/Captain Clown Nose with Sword/19-Air Attack 2/Air Attack 2 01.png"/>
+        <texture id="Warrior Air Attack_2 2" source= "assets/objects/Character/Captain Clown Nose with Sword/19-Air Attack 2/Air Attack 2 02.png"/>
+        <texture id="Warrior Air Attack_2 3" source= "assets/objects/Character/Captain Clown Nose with Sword/19-Air Attack 2/Air Attack 2 03.png"/>   
+        
+        <texture id="Warrior Throw Sword1" source= "assets/objects/Character/Captain Clown Nose with Sword/20-Throw Sword/Throw Sword 01.png"/>
+        <texture id="Warrior Throw Sword2" source= "assets/objects/Character/Captain Clown Nose with Sword/20-Throw Sword/Throw Sword 02.png"/>
+        <texture id="Warrior Throw Sword3" source= "assets/objects/Character/Captain Clown Nose with Sword/20-Throw Sword/Throw Sword 03.png"/>
+        
+        <texture id="Warrior Effect Attack_1 1" source= "assets/objects/Character/Sword Effects/24-Attack 1/Attack 1 01.png"/>
+        <texture id="Warrior Effect Attack_1 2" source= "assets/objects/Character/Sword Effects/24-Attack 1/Attack 1 02.png"/>
+        <texture id="Warrior Effect Attack_1 3" source= "assets/objects/Character/Sword Effects/24-Attack 1/Attack 1 03.png"/>
+
+        <texture id="Warrior Effect Attack_2 1" source= "assets/objects/Character/Sword Effects/25-Attack 2/Attack 2 01.png"/>
+        <texture id="Warrior Effect Attack_2 2" source= "assets/objects/Character/Sword Effects/25-Attack 2/Attack 2 02.png"/>
+        <texture id="Warrior Effect Attack_2 3" source= "assets/objects/Character/Sword Effects/25-Attack 2/Attack 2 03.png"/>
+
+        <texture id="Warrior Effect Attack_3 1" source= "assets/objects/Character/Sword Effects/26-Attack 3/Attack 3 01.png"/>
+        <texture id="Warrior Effect Attack_3 2" source= "assets/objects/Character/Sword Effects/26-Attack 3/Attack 3 02.png"/>
+        <texture id="Warrior Effect Attack_3 3" source= "assets/objects/Character/Sword Effects/26-Attack 3/Attack 3 03.png"/>
+
+        <!--Enemy-->
+        <!--Enemy1-->
+        <texture id="Enemy1 idle1" source= "assets/objects/Character/Crabby/01-Idle/Idle 01.png"/>
+        <texture id="Enemy1 idle2" source= "assets/objects/Character/Crabby/01-Idle/Idle 02.png"/>
+        <texture id="Enemy1 idle3" source= "assets/objects/Character/Crabby/01-Idle/Idle 03.png"/>
+        <texture id="Enemy1 idle4" source= "assets/objects/Character/Crabby/01-Idle/Idle 04.png"/>
+        <texture id="Enemy1 idle5" source= "assets/objects/Character/Crabby/01-Idle/Idle 05.png"/>
+        <texture id="Enemy1 idle6" source= "assets/objects/Character/Crabby/01-Idle/Idle 06.png"/>
+        <texture id="Enemy1 idle7" source= "assets/objects/Character/Crabby/01-Idle/Idle 07.png"/>
+        <texture id="Enemy1 idle8" source= "assets/objects/Character/Crabby/01-Idle/Idle 08.png"/>
+        <texture id="Enemy1 idle9" source= "assets/objects/Character/Crabby/01-Idle/Idle 09.png"/>
+
+        <texture id="Enemy1 run1" source= "assets/objects/Character/Crabby/02-Run/Run 01.png"/>
+        <texture id="Enemy1 run2" source= "assets/objects/Character/Crabby/02-Run/Run 02.png"/>
+        <texture id="Enemy1 run3" source= "assets/objects/Character/Crabby/02-Run/Run 03.png"/>
+        <texture id="Enemy1 run4" source= "assets/objects/Character/Crabby/02-Run/Run 04.png"/>
+        <texture id="Enemy1 run5" source= "assets/objects/Character/Crabby/02-Run/Run 05.png"/>
+        <texture id="Enemy1 run6" source= "assets/objects/Character/Crabby/02-Run/Run 06.png"/>
+          
+        <texture id="Enemy1 jump1" source= "assets/objects/Character/Crabby/03-Jump/Jump 01.png"/>
+        <texture id="Enemy1 jump2" source= "assets/objects/Character/Crabby/03-Jump/Jump 02.png"/>
+        <texture id="Enemy1 jump3" source= "assets/objects/Character/Crabby/03-Jump/Jump 03.png"/>
+
+        <texture id="Enemy1 fall1" source= "assets/objects/Character/Crabby/04-Fall/Fall 01.png"/>
+
+        <texture id="Enemy1 attack1" source= "assets/objects/Character/Crabby/07-Attack/Attack 01.png"/>
+        <texture id="Enemy1 attack2" source= "assets/objects/Character/Crabby/07-Attack/Attack 02.png"/>
+        <texture id="Enemy1 attack3" source= "assets/objects/Character/Crabby/07-Attack/Attack 03.png"/>
+        <texture id="Enemy1 attack4" source= "assets/objects/Character/Crabby/07-Attack/Attack 04.png"/>
+
+        <texture id="Enemy1 hit1" source= "assets/objects/Character/Crabby/08-Hit/Hit 01.png"/>
+        <texture id="Enemy1 hit2" source= "assets/objects/Character/Crabby/08-Hit/Hit 02.png"/>
+        <texture id="Enemy1 hit3" source= "assets/objects/Character/Crabby/08-Hit/Hit 03.png"/>
+        <texture id="Enemy1 hit4" source= "assets/objects/Character/Crabby/08-Hit/Hit 04.png"/>
+
+        <texture id="Enemy1 dead hit1" source= "assets/objects/Character/Crabby/09-Dead Hit/Dead Hit 01.png"/>
+        <texture id="Enemy1 dead hit2" source= "assets/objects/Character/Crabby/09-Dead Hit/Dead Hit 02.png"/>
+        <texture id="Enemy1 dead hit3" source= "assets/objects/Character/Crabby/09-Dead Hit/Dead Hit 03.png"/>
+        <texture id="Enemy1 dead hit4" source= "assets/objects/Character/Crabby/09-Dead Hit/Dead Hit 04.png"/>
+
+        <texture id="Enemy1 dead ground1" source= "assets/objects/Character/Crabby/10-Dead Ground/Dead Ground 01.png"/>
+        <texture id="Enemy1 dead ground2" source= "assets/objects/Character/Crabby/10-Dead Ground/Dead Ground 02.png"/>
+        <texture id="Enemy1 dead ground3" source= "assets/objects/Character/Crabby/10-Dead Ground/Dead Ground 03.png"/>
+        <texture id="Enemy1 dead ground4" source= "assets/objects/Character/Crabby/10-Dead Ground/Dead Ground 04.png"/>
+
+        <texture id="Enemy1 attack effect1" source= "assets/objects/Character/Crabby/11-Attack Effect/Attack Effect 01.png"/>
+        <texture id="Enemy1 attack effect2" source= "assets/objects/Character/Crabby/11-Attack Effect/Attack Effect 02.png"/>
+        <texture id="Enemy1 attack effect3" source= "assets/objects/Character/Crabby/11-Attack Effect/Attack Effect 03.png"/>
+        <!--Enemy2-->
+        <texture id="Enemy2 idle1" source= "assets/objects/Character/Pink Star/01-Idle/Idle 01.png"/>
+        <texture id="Enemy2 idle2" source= "assets/objects/Character/Pink Star/01-Idle/Idle 02.png"/>
+        <texture id="Enemy2 idle3" source= "assets/objects/Character/Pink Star/01-Idle/Idle 03.png"/>
+        <texture id="Enemy2 idle4" source= "assets/objects/Character/Pink Star/01-Idle/Idle 04.png"/>
+        <texture id="Enemy2 idle5" source= "assets/objects/Character/Pink Star/01-Idle/Idle 05.png"/>
+        <texture id="Enemy2 idle6" source= "assets/objects/Character/Pink Star/01-Idle/Idle 06.png"/>
+        <texture id="Enemy2 idle7" source= "assets/objects/Character/Pink Star/01-Idle/Idle 07.png"/>
+        <texture id="Enemy2 idle8" source= "assets/objects/Character/Pink Star/01-Idle/Idle 08.png"/>
+
+        <texture id="Enemy2 run1" source= "assets/objects/Character/Pink Star/02-Run/Run 01.png"/>
+        <texture id="Enemy2 run2" source= "assets/objects/Character/Pink Star/02-Run/Run 02.png"/>
+        <texture id="Enemy2 run3" source= "assets/objects/Character/Pink Star/02-Run/Run 03.png"/>
+        <texture id="Enemy2 run4" source= "assets/objects/Character/Pink Star/02-Run/Run 04.png"/>
+        <texture id="Enemy2 run5" source= "assets/objects/Character/Pink Star/02-Run/Run 05.png"/>
+        <texture id="Enemy2 run6" source= "assets/objects/Character/Pink Star/02-Run/Run 06.png"/>
+          
+        <texture id="Enemy2 jump1" source= "assets/objects/Character/Pink Star/03-Jump/Jump 01.png"/>
+        <texture id="Enemy2 jump2" source= "assets/objects/Character/Pink Star/03-Jump/Jump 02.png"/>
+        <texture id="Enemy2 jump3" source= "assets/objects/Character/Pink Star/03-Jump/Jump 03.png"/>
+
+        <texture id="Enemy2 fall1" source= "assets/objects/Character/Pink Star/04-Fall/Fall 01.png"/>
+
+        <texture id="Enemy2 attack1" source= "assets/objects/Character/Pink Star/07-Attack/Attack 01.png"/>
+        <texture id="Enemy2 attack2" source= "assets/objects/Character/Pink Star/07-Attack/Attack 02.png"/>
+        <texture id="Enemy2 attack3" source= "assets/objects/Character/Pink Star/07-Attack/Attack 03.png"/>
+        <texture id="Enemy2 attack4" source= "assets/objects/Character/Pink Star/07-Attack/Attack 04.png"/>
+
+        <texture id="Enemy2 hit1" source= "assets/objects/Character/Pink Star/08-Hit/Hit 01.png"/>
+        <texture id="Enemy2 hit2" source= "assets/objects/Character/Pink Star/08-Hit/Hit 02.png"/>
+        <texture id="Enemy2 hit3" source= "assets/objects/Character/Pink Star/08-Hit/Hit 03.png"/>
+        <texture id="Enemy2 hit4" source= "assets/objects/Character/Pink Star/08-Hit/Hit 04.png"/>
+
+        <texture id="Enemy2 dead hit1" source= "assets/objects/Character/Pink Star/09-Dead Hit/Dead Hit 01.png"/>
+        <texture id="Enemy2 dead hit2" source= "assets/objects/Character/Pink Star/09-Dead Hit/Dead Hit 02.png"/>
+        <texture id="Enemy2 dead hit3" source= "assets/objects/Character/Pink Star/09-Dead Hit/Dead Hit 03.png"/>
+        <texture id="Enemy2 dead hit4" source= "assets/objects/Character/Pink Star/09-Dead Hit/Dead Hit 04.png"/>
+
+        <texture id="Enemy2 dead ground1" source= "assets/objects/Character/Pink Star/10-Dead Ground/Dead Ground 01.png"/>
+        <texture id="Enemy2 dead ground2" source= "assets/objects/Character/Pink Star/10-Dead Ground/Dead Ground 02.png"/>
+        <texture id="Enemy2 dead ground3" source= "assets/objects/Character/Pink Star/10-Dead Ground/Dead Ground 03.png"/>
+        <texture id="Enemy2 dead ground4" source= "assets/objects/Character/Pink Star/10-Dead Ground/Dead Ground 04.png"/>
+
+        <texture id="Enemy2 attack effect1" source= "assets/objects/Character/Pink Star/11-Attack Effect/Attack Effect 01.png"/>
+        <texture id="Enemy2 attack effect2" source= "assets/objects/Character/Pink Star/11-Attack Effect/Attack Effect 02.png"/>
+        <texture id="Enemy2 attack effect3" source= "assets/objects/Character/Pink Star/11-Attack Effect/Attack Effect 03.png"/>
+        <!--Enemy3-->
+        <texture id="Enemy3 idle1" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 01.png"/>
+        <texture id="Enemy3 idle2" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 02.png"/>
+        <texture id="Enemy3 idle3" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 03.png"/>
+        <texture id="Enemy3 idle4" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 04.png"/>
+        <texture id="Enemy3 idle5" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 05.png"/>
+        <texture id="Enemy3 idle6" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 06.png"/>
+        <texture id="Enemy3 idle7" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 07.png"/>
+        <texture id="Enemy3 idle8" source= "assets/objects/Character/Fierce Tooth/01-Idle/Idle 08.png"/>
+
+        <texture id="Enemy3 run1" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 01.png"/>
+        <texture id="Enemy3 run2" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 02.png"/>
+        <texture id="Enemy3 run3" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 03.png"/>
+        <texture id="Enemy3 run4" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 04.png"/>
+        <texture id="Enemy3 run5" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 05.png"/>
+        <texture id="Enemy3 run6" source= "assets/objects/Character/Fierce Tooth/02-Run/Run 06.png"/>
+          
+        <texture id="Enemy3 jump1" source= "assets/objects/Character/Fierce Tooth/03-Jump/Jump 01.png"/>
+        <texture id="Enemy3 jump2" source= "assets/objects/Character/Fierce Tooth/03-Jump/Jump 02.png"/>
+        <texture id="Enemy3 jump3" source= "assets/objects/Character/Fierce Tooth/03-Jump/Jump 03.png"/>
+
+        <texture id="Enemy3 fall1" source= "assets/objects/Character/Fierce Tooth/04-Fall/Fall 01.png"/>
+
+        <texture id="Enemy3 attack1" source= "assets/objects/Character/Fierce Tooth/07-Attack/Attack 01.png"/>
+        <texture id="Enemy3 attack2" source= "assets/objects/Character/Fierce Tooth/07-Attack/Attack 02.png"/>
+        <texture id="Enemy3 attack3" source= "assets/objects/Character/Fierce Tooth/07-Attack/Attack 03.png"/>
+        <texture id="Enemy3 attack4" source= "assets/objects/Character/Fierce Tooth/07-Attack/Attack 04.png"/>
+        <texture id="Enemy3 attack5" source= "assets/objects/Character/Fierce Tooth/07-Attack/Attack 04.png"/>
+
+        <texture id="Enemy3 hit1" source= "assets/objects/Character/Fierce Tooth/08-Hit/Hit 01.png"/>
+        <texture id="Enemy3 hit2" source= "assets/objects/Character/Fierce Tooth/08-Hit/Hit 02.png"/>
+        <texture id="Enemy3 hit3" source= "assets/objects/Character/Fierce Tooth/08-Hit/Hit 03.png"/>
+        <texture id="Enemy3 hit4" source= "assets/objects/Character/Fierce Tooth/08-Hit/Hit 04.png"/>
+
+        <texture id="Enemy3 dead hit1" source= "assets/objects/Character/Fierce Tooth/09-Dead Hit/Dead Hit 01.png"/>
+        <texture id="Enemy3 dead hit2" source= "assets/objects/Character/Fierce Tooth/09-Dead Hit/Dead Hit 02.png"/>
+        <texture id="Enemy3 dead hit3" source= "assets/objects/Character/Fierce Tooth/09-Dead Hit/Dead Hit 03.png"/>
+        <texture id="Enemy3 dead hit4" source= "assets/objects/Character/Fierce Tooth/09-Dead Hit/Dead Hit 04.png"/>
+
+        <texture id="Enemy3 dead ground1" source= "assets/objects/Character/Fierce Tooth/10-Dead Ground/Dead Ground 01.png"/>
+        <texture id="Enemy3 dead ground2" source= "assets/objects/Character/Fierce Tooth/10-Dead Ground/Dead Ground 02.png"/>
+        <texture id="Enemy3 dead ground3" source= "assets/objects/Character/Fierce Tooth/10-Dead Ground/Dead Ground 03.png"/>
+        <texture id="Enemy3 dead ground4" source= "assets/objects/Character/Fierce Tooth/10-Dead Ground/Dead Ground 04.png"/>
+
+        <texture id="Enemy3 attack effect1" source= "assets/objects/Character/Fierce Tooth/11-Attack Effect/Attack Effect 01.png"/>
+        <texture id="Enemy3 attack effect2" source= "assets/objects/Character/Fierce Tooth/11-Attack Effect/Attack Effect 02.png"/>
+        <texture id="Enemy3 attack effect3" source= "assets/objects/Character/Fierce Tooth/11-Attack Effect/Attack Effect 03.png"/>
+        <texture id="Enemy3 attack effect4" source= "assets/objects/Character/Fierce Tooth/11-Attack Effect/Attack Effect 04.png"/>
+        <!--Dust-->
+        <texture id="Dust particles fall1" source= "assets/objects/Character/Dust Particles/Fall 01.png"/>
+        <texture id="Dust particles fall2" source= "assets/objects/Character/Dust Particles/Fall 02.png"/>
+        <texture id="Dust particles fall3" source= "assets/objects/Character/Dust Particles/Fall 03.png"/>
+        <texture id="Dust particles fall4" source= "assets/objects/Character/Dust Particles/Fall 04.png"/>
+        <texture id="Dust particles fall5" source= "assets/objects/Character/Dust Particles/Fall 05.png"/>
+
+        <texture id="Dust particles jump1" source= "assets/objects/Character/Dust Particles/Jump 01.png"/>
+        <texture id="Dust particles jump2" source= "assets/objects/Character/Dust Particles/Jump 02.png"/>
+        <texture id="Dust particles jump3" source= "assets/objects/Character/Dust Particles/Jump 03.png"/>
+        <texture id="Dust particles jump4" source= "assets/objects/Character/Dust Particles/Jump 04.png"/>
+        <texture id="Dust particles jump5" source= "assets/objects/Character/Dust Particles/Jump 05.png"/>
+        <texture id="Dust particles jump6" source= "assets/objects/Character/Dust Particles/Jump 06.png"/>
+
+        <texture id="Dust particles run1" source= "assets/objects/Character/Dust Particles/Run 01.png"/>
+        <texture id="Dust particles run2" source= "assets/objects/Character/Dust Particles/Run 02.png"/>
+        <texture id="Dust particles run3" source= "assets/objects/Character/Dust Particles/Run 03.png"/>
+        <texture id="Dust particles run4" source= "assets/objects/Character/Dust Particles/Run 04.png"/>
+        <texture id="Dust particles run5" source= "assets/objects/Character/Dust Particles/Run 05.png"/>
+        <!--Dialogue-->
+        <texture id="Dead In 01" source= "assets/objects/Character/Dialogue/Dead/Dead In 01.png"/>
+        <texture id="Dead In 02" source= "assets/objects/Character/Dialogue/Dead/Dead In 02.png"/>
+        <texture id="Dead In 03" source= "assets/objects/Character/Dialogue/Dead/Dead In 03.png"/>
+        <texture id="Dead Out 01" source= "assets/objects/Character/Dialogue/Dead/Dead Out 01.png"/>
+        <texture id="Dead Out 02" source= "assets/objects/Character/Dialogue/Dead/Dead Out 02.png"/>
+
+        <texture id="Exclamation In 01" source= "assets/objects/Character/Dialogue/Exclamation/Exclamation In 01.png"/>
+        <texture id="Exclamation In 02" source= "assets/objects/Character/Dialogue/Exclamation/Exclamation In 02.png"/>
+        <texture id="Exclamation In 03" source= "assets/objects/Character/Dialogue/Exclamation/Exclamation In 03.png"/>
+        <texture id="Exclamation Out 01" source= "assets/objects/Character/Dialogue/Exclamation/Exclamation Out 01.png"/>
+        <texture id="Exclamation Out 02" source= "assets/objects/Character/Dialogue/Exclamation/Exclamation Out 02.png"/>
+
+        <texture id="Interrogation In 01" source= "assets/objects/Character/Dialogue/Interrogation/Interrogation In 01.png"/>
+        <texture id="Interrogation In 02" source= "assets/objects/Character/Dialogue/Interrogation/Interrogation In 02.png"/>
+        <texture id="Interrogation In 02" source= "assets/objects/Character/Dialogue/Interrogation/Interrogation In 03.png"/>
+        <texture id="Interrogation Out 01" source= "assets/objects/Character/Dialogue/Interrogation/Interrogation Out 01.png"/>
+        <texture id="Interrogation Out 02" source= "assets/objects/Character/Dialogue/Interrogation/Interrogation Out 02.png"/>
+    <!--Background-->
+    <texture id="Skyline" source= "assets/objects/Background/BG Image.png"/>
+    <texture id="Sky_Tile" source= "assets/objects/Background/Sky.png"/>
+    <texture id="Water_Tile" source= "assets/objects/Background/Water.png"/>
+    <texture id="Sky_bg" source= "assets/objects/Sky/Sky.png"/>
+    <texture id="Water_bg" source= "assets/objects/Water/Top/Water.png"/>
+    <!--Index-->
+    <texture id="Big Bars1" source= "assets/objects/Character/Life Bars/Big Bars/1.png"/>
+    <texture id="Big Bars2" source= "assets/objects/Character/Life Bars/Big Bars/2.png"/>
+    <texture id="Big Bars3" source= "assets/objects/Character/Life Bars/Big Bars/3.png"/>
+    <texture id="Big Bars4" source= "assets/objects/Character/Life Bars/Big Bars/4.png"/>
+
+    <texture id="Colors1" source= "assets/objects/Character/Life Bars/Colors/1.png"/>
+    <texture id="Colors2" source= "assets/objects/Character/Life Bars/Colors/2.png"/>
+    <texture id="Colors3" source= "assets/objects/Character/Life Bars/Colors/3.png"/>
+    <texture id="Colors4" source= "assets/objects/Character/Life Bars/Colors/4.png"/>
+
+    <texture id="Medium Bars1" source= "assets/objects/Character/Life Bars/Medium Bars/1.png"/>
+    <texture id="Medium Bars2" source= "assets/objects/Character/Life Bars/Medium Bars/2.png"/>
+    <texture id="Medium Bars3" source= "assets/objects/Character/Life Bars/Medium Bars/3.png"/>
+    <texture id="Medium Bars4" source= "assets/objects/Character/Life Bars/Medium Bars/4.png"/>
+    <texture id="Medium Bars5" source= "assets/objects/Character/Life Bars/Medium Bars/5.png"/>
+
+    <texture id="Small Bars1" source= "assets/objects/Character/Life Bars/Small Bars/1.png"/>
+    <texture id="Small Bars2" source= "assets/objects/Character/Life Bars/Small Bars/2.png"/>
+    <texture id="Small Bars3" source= "assets/objects/Character/Life Bars/Small Bars/3.png"/>
+    <texture id="Small Bars4" source= "assets/objects/Character/Life Bars/Small Bars/4.png"/>
+    <texture id="Small Bars5" source= "assets/objects/Character/Life Bars/Small Bars/5.png"/>
+    <!--Cloud-->
+    <texture id="Small Cloud 1" source= "assets/objects/Cloud/Small Cloud 1.png"/>
+    <texture id="Small Cloud 2" source= "assets/objects/Cloud/Small Cloud 2.png"/>
+    <texture id="Small Cloud 3" source= "assets/objects/Cloud/Small Cloud 3.png"/>
+    <texture id="Big Cloud" source= "assets/objects/Sky/Big Clouds.png"/>
+    <!--Terrain-->
+    <texture id="Terrain" source= "assets/objects/Terrain/Terrain.png"/>
+    <!--Sword-->
+    <texture id="Sword idle1" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 01.png"/>
+    <texture id="Sword idle2" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 02.png"/>
+    <texture id="Sword idle3" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 03.png"/>
+    <texture id="Sword idle4" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 04.png"/>
+    <texture id="Sword idle5" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 05.png"/>
+    <texture id="Sword idle6" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 06.png"/>
+    <texture id="Sword idle7" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 07.png"/>
+    <texture id="Sword idle8" source= "assets/objects/Character/Sword/21-Sword Idle/Sword Idle 08.png"/>
+    
+
+  
+    <!--Grass-->
+    <texture id="Grass" source= "assets/objects/Grass/Grass.png"/>
+    <!--Coin-->
+    <texture id="Gold coin 1" source= "assets/objects/Gold Coin/01.png"/>
+    <texture id="Gold coin 2" source= "assets/objects/Gold Coin/02.png"/>
+    <texture id="Gold coin 3" source= "assets/objects/Gold Coin/03.png"/>
+    <texture id="Gold coin 4" source= "assets/objects/Gold Coin/04.png"/>
+
+    <texture id="Silver coin 1" source= "assets/objects/Silver Coin/01.png"/>
+    <texture id="Silver coin 2" source= "assets/objects/Silver Coin/02.png"/>
+    <texture id="Silver coin 3" source= "assets/objects/Silver Coin/03.png"/>
+    <texture id="Silver coin 4" source= "assets/objects/Silver Coin/04.png"/>
+    <!--Tree-->
+    <texture id="Back tree 1" source= "assets/objects/Back tree/Back Palm Tree Regular 01.png"/>
+    <texture id="Back tree 2" source= "assets/objects/Back tree/Back Palm Tree Regular 02.png"/>
+    <texture id="Back tree 3" source= "assets/objects/Back tree/Back Palm Tree Regular 03.png"/>
+    <texture id="Back tree 4" source= "assets/objects/Back tree/Back Palm Tree Regular 04.png"/>
+    
+    <texture id="Front bottom tree" source= "assets/objects/Front tree/Front Palm Bottom and Grass (32x32).png"/>
+
+    <texture id="Front tree Top 1" source= "assets/objects/Front tree/Front Palm Tree Top 01.png"/>
+    <texture id="Front tree Top 2" source= "assets/objects/Front tree/Front Palm Tree Top 02.png"/>
+    <texture id="Front tree Top 3" source= "assets/objects/Front tree/Front Palm Tree Top 03.png"/>
+    <texture id="Front tree Top 4" source= "assets/objects/Front tree/Front Palm Tree Top 04.png"/>
+    <!--Water-->
+    <texture id="Water Top 1" source= "assets/objects/Water/Top/1.png"/>
+    <texture id="Water Top 2" source= "assets/objects/Water/Top/2.png"/>
+    <texture id="Water Top 3" source= "assets/objects/Water/Top/3.png"/>
+    <texture id="Water Top 4" source= "assets/objects/Water/Top/4.png"/>
+
+    <texture id="Water effect 1" source= "assets/objects/Water/Top/Water Reflect Big 01.png"/>
+    <texture id="Water effect 2" source= "assets/objects/Water/Top/Water Reflect Big 02.png"/>
+    <texture id="Water effect 3" source= "assets/objects/Water/Top/Water Reflect Big 03.png"/>
+    <texture id="Water effect 4" source= "assets/objects/Water/Top/Water Reflect Big 04.png"/>
+
+    <!--Flag-->
+    <texture id="Flag 01" source= "assets/objects/Flag/Flag 01.png"/>
+    <texture id="Flag 02" source= "assets/objects/Flag/Flag 02.png"/>
+    <texture id="Flag 03" source= "assets/objects/Flag/Flag 03.png"/>
+    <texture id="Flag 04" source= "assets/objects/Flag/Flag 04.png"/>
+    <texture id="Flag 05" source= "assets/objects/Flag/Flag 05.png"/>
+    <texture id="Flag 06" source= "assets/objects/Flag/Flag 06.png"/>
+    <texture id="Flag 07" source= "assets/objects/Flag/Flag 07.png"/>
+    <texture id="Flag 08" source= "assets/objects/Flag/Flag 08.png"/>
+    <texture id="Flag 09" source= "assets/objects/Flag/Flag 09.png"/>
+    <!--chest-->
+    <texture id="Chest" source= "assets\objects\Chest\Idle\1.png"/>
+
+    <texture id="Treasure 1" source= "assets\objects\Chest\Treasure\Chest Close 01.png"/>
+    <texture id="Treasure 2" source= "assets\objects\Chest\Treasure\Chest Close 02.png"/>
+    <texture id="Treasure 3" source= "assets\objects\Chest\Treasure\Chest Close 03.png"/>
+    <texture id="Treasure 4" source= "assets\objects\Chest\Treasure\Chest Close 04.png"/>
+    <texture id="Treasure 5" source= "assets\objects\Chest\Treasure\Chest Close 05.png"/>
+    <texture id="Treasure 6" source= "assets\objects\Chest\Treasure\Chest Close 06.png"/>
+    <texture id="Treasure 7" source= "assets\objects\Chest\Treasure\Chest Close 07.png"/>
+    <texture id="Treasure 8" source= "assets\objects\Chest\Treasure\Chest Close 08.png"/>
+    <texture id="Treasure 9" source= "assets\objects\Chest\Treasure\Chest Close 09.png"/>
+    <texture id="Treasure 10" source= "assets\objects\Chest\Treasure\Chest Close 10.png"/>
+    <!--Cloud-->
+    <texture id="cloud 1" source= "assets\objects\Cloud\cloud1.png"/>
+    <texture id="cloud 2" source= "assets\objects\Cloud\cloud2.png"/>
+    <texture id="cloud 3" source= "assets\objects\Cloud\cloud3.png"/>
+    <texture id="cloud 4" source= "assets\objects\Cloud\cloud4.png"/>
+    <texture id="cloud 5" source= "assets\objects\Cloud\cloud5.png"/>
+    <texture id="cloud 6" source= "assets\objects\Cloud\cloud6.png"/>
+    <texture id="cloud 7" source= "assets\objects\Cloud\cloud7.png"/>
+    <texture id="cloud 8" source= "assets\objects\Cloud\cloud8.png"/>
+    
+    <!--Menu-->
+    <texture id="Big Banner" source= "assets\objects\Menu\Big Banner\Big Banner.png"/>
+    <texture id="Small Banner" source= "assets\objects\Menu\Small Banner\Small Banner.png"/>
+
+    <texture id="Green Board" source= "assets\objects\Menu\Green Board\Green Board.png"/>
+
+    <texture id="Yellow Board" source= "assets\objects\Menu\Yellow Board\Yellow Board.png"/>
+
+    <texture id="Yellow Paper" source= "assets\objects\Menu\Yellow Paper\Yellow Paper.png"/>
+    <texture id="Game over" source= "assets\objects\Menu\Yellow Paper\Game over.png"/>
+    <texture id="Info" source= "assets\objects\Menu\Yellow Paper\info.png"/>
+
+    <texture id="Chains Big 1" source= "assets\objects\Chains\Big\01.png"/>
+    <texture id="Chains Big 2" source= "assets\objects\Chains\Big\02.png"/>
+    <texture id="Chains Big 3" source= "assets\objects\Chains\Big\03.png"/>
+    <texture id="Chains Big 4" source= "assets\objects\Chains\Big\04.png"/>
+    <texture id="Chains Big 5" source= "assets\objects\Chains\Big\05.png"/>
+    <texture id="Chains Big 6" source= "assets\objects\Chains\Big\06.png"/>
+    <texture id="Chains Big 7" source= "assets\objects\Chains\Big\07.png"/>
+    <texture id="Chains Big 8" source= "assets\objects\Chains\Big\08.png"/>
+    <!--button-->
+    
+    <texture id="Play button" source= "assets\objects\Menu\Button\Play.png"/>
+    <texture id="Quit button" source= "assets\objects\Menu\Button\Quit.png"/>
+    <texture id="Setting button" source= "assets\objects\Menu\Button\Setting.png"/>
+    
+    <texture id="Menu button" source= "assets\objects\Menu\Button\Menu.png"/>
+    <texture id="Music button" source= "assets\objects\Menu\Button\Music.png"/>
+    <texture id="Return button" source= "assets\objects\Menu\Button\Return.png"/>
+    <texture id="Home_2 button" source= "assets\objects\Menu\Button\Home_2.png"/>
+    <texture id="Info button" source= "assets\objects\Menu\Button\Info.png"/>
+    <texture id="Close button" source= "assets\objects\Menu\Button\Close.png"/>
+    <texture id="Continue button" source= "assets\objects\Menu\Button\Continue.png"/>
+
+    <texture id="1 Button" source= "assets\objects\Menu\Button\1.png"/>
+    <texture id="2 Button" source= "assets\objects\Menu\Button\2.png"/>
+    <texture id="3 Button" source= "assets\objects\Menu\Button\3.png"/>
+    <texture id="4 Button" source= "assets\objects\Menu\Button\4.png"/>
+    <texture id="5 Button" source= "assets\objects\Menu\Button\5.png"/>
+    <texture id="6 Button" source= "assets\objects\Menu\Button\6.png"/>
+
+    <texture id="Home button" source= "assets\objects\Menu\Button\Home.png"/>
+
+    <texture id="text 1" source= "assets\objects\Menu\Text\1.png"/>
+    <texture id="text 2" source= "assets\objects\Menu\Text\2.png"/>
+    <texture id="text 3" source= "assets\objects\Menu\Text\3.png"/>
+    <texture id="text 4" source= "assets\objects\Menu\Text\4.png"/>
+    <texture id="text 5" source= "assets\objects\Menu\Text\5.png"/>
+    <texture id="text 6" source= "assets\objects\Menu\Text\6.png"/>
+    <texture id="text 7" source= "assets\objects\Menu\Text\7.png"/>
+    <texture id="text 8" source= "assets\objects\Menu\Text\8.png"/>
+    <texture id="text 9" source= "assets\objects\Menu\Text\9.png"/>
+    <texture id="text 10" source= "assets\objects\Menu\Text\10.png"/>
+    <texture id="text 11" source= "assets\objects\Menu\Text\11.png"/>
+    <texture id="text 12" source= "assets\objects\Menu\Text\12.png"/>
+    <texture id="text 13" source= "assets\objects\Menu\Text\13.png"/>
+    <texture id="text 14" source= "assets\objects\Menu\Text\14.png"/>
+    <texture id="text 15" source= "assets\objects\Menu\Text\15.png"/>
+    <texture id="text 16" source= "assets\objects\Menu\Text\16.png"/>
+    <texture id="text 17" source= "assets\objects\Menu\Text\17.png"/>
+    <texture id="text 18" source= "assets\objects\Menu\Text\18.png"/>
+    <texture id="text 19" source= "assets\objects\Menu\Text\19.png"/>
+    <texture id="text 20" source= "assets\objects\Menu\Text\20.png"/>
+    <texture id="text 21" source= "assets\objects\Menu\Text\21.png"/>
+    <texture id="text 22" source= "assets\objects\Menu\Text\22.png"/>
+    <texture id="text 23" source= "assets\objects\Menu\Text\23.png"/>
+    <texture id="text 24" source= "assets\objects\Menu\Text\24.png"/>
+    <texture id="text 25" source= "assets\objects\Menu\Text\25.png"/>
+    <texture id="text 26" source= "assets\objects\Menu\Text\26.png"/>
+    <texture id="text 27" source= "assets\objects\Menu\Text\27.png"/>
+    <texture id="text 28" source= "assets\objects\Menu\Text\28.png"/>
+    <texture id="text 29" source= "assets\objects\Menu\Text\29.png"/>
+    <texture id="text 30" source= "assets\objects\Menu\Text\30.png"/>
+    <texture id="text 31" source= "assets\objects\Menu\Text\31.png"/>
+    <texture id="text 32" source= "assets\objects\Menu\Text\32.png"/>
+    <texture id="text 33" source= "assets\objects\Menu\Text\33.png"/>
+    <texture id="text 34" source= "assets\objects\Menu\Text\34.png"/>
+    <texture id="text 35" source= "assets\objects\Menu\Text\35.png"/>
+    <texture id="text 36" source= "assets\objects\Menu\Text\36.png"/>
+    <texture id="text 37" source= "assets\objects\Menu\Text\37.png"/>
+    <texture id="text 38" source= "assets\objects\Menu\Text\38.png"/>
+    <texture id="text 39" source= "assets\objects\Menu\Text\39.png"/>
+    <texture id="text 40" source= "assets\objects\Menu\Text\40.png"/>
+    <texture id="text 41" source= "assets\objects\Menu\Text\41.png"/>
+    <texture id="text 42" source= "assets\objects\Menu\Text\42.png"/>
+    <texture id="text 43" source= "assets\objects\Menu\Text\43.png"/>
+    <texture id="text 44" source= "assets\objects\Menu\Text\44.png"/>
+    <texture id="text 45" source= "assets\objects\Menu\Text\45.png"/>
+    <texture id="text 46" source= "assets\objects\Menu\Text\46.png"/>
+    <texture id="text 47" source= "assets\objects\Menu\Text\47.png"/>
+    <texture id="text 48" source= "assets\objects\Menu\Text\48.png"/>
+    <texture id="text 49" source= "assets\objects\Menu\Text\49.png"/>
+    <texture id="text 50" source= "assets\objects\Menu\Text\50.png"/>
+    <texture id="text 51" source= "assets\objects\Menu\Text\51.png"/>
+    <texture id="text 52" source= "assets\objects\Menu\Text\52.png"/>
+
+</textures>

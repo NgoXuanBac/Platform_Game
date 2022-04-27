@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musics>
+    <music id="Jump Sound" source ="assets/music/jump.wav"/>
+    <music id="Coin Sound" source ="assets/music/coin.wav"/>
+    <music id="Fall Sound" source ="assets/music/touch.wav"/>
+</musics>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <sequence id="Warrior Effect Attack_1" frameCount="3" speed="4" width="28" height="17">
+      <frame textureID="Warrior Effect Attack_1 1"/>
+      <frame textureID="Warrior Effect Attack_1 2"/>
+      <frame textureID="Warrior Effect Attack_1 3"/>
+    </sequence>
+    
+    <sequence id="Warrior Effect Attack_2" frameCount="3" speed="4" width="38" height="37">
+      <frame textureID="Warrior Effect Attack_2 1"/>
+      <frame textureID="Warrior Effect Attack_2 2"/>
+      <frame textureID="Warrior Effect Attack_2 3"/>
+    </sequence>
+    
+    <sequence id="Warrior Effect Attack_3" frameCount="3" speed="4" width="42" height="36">
+      <frame textureID="Warrior Effect Attack_3 1"/>
+      <frame textureID="Warrior Effect Attack_3 2"/>
+      <frame textureID="Warrior Effect Attack_3 3"/>
+    </sequence>
+</animations>

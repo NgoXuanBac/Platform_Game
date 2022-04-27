@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <sequence id="Dialogue dead" frameCount="5" speed="5" width="14" height="12">
+      <frame textureID="Dead In 01"/>
+      <frame textureID="Dead In 02"/>
+      <frame textureID="Dead In 03"/>
+      <frame textureID="Dead Out 01"/>
+      <frame textureID="Dead Out 02"/>
+    </sequence>
+    
+    <sequence id="Dialogue exclamation" frameCount="5" speed="15" width="14" height="12">
+      <frame textureID="Exclamation In 01"/>
+      <frame textureID="Exclamation In 02"/>
+      <frame textureID="Exclamation In 03"/>
+      <frame textureID="Exclamation Out 01"/>
+      <frame textureID="Exclamation Out 02"/>
+    </sequence>
+    
+    <sequence id="Dialogue interrogation" frameCount="7" speed="15" width="14" height="12">
+      <frame textureID="Interrogation In 01"/>
+      <frame textureID="Interrogation In 02"/>
+      <frame textureID="Interrogation In 03"/>
+      <frame textureID="Interrogation Out 01"/>
+      <frame textureID="Interrogation Out 01"/>
+      <frame textureID="Interrogation Out 01"/>
+      <frame textureID="Interrogation Out 02"/>
+    </sequence>
+
+</animations>

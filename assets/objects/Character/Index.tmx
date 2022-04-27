@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <!--HealthPoint Warrior-->
+    <idquence id="WarriorHP" Count="3" width="32" height="32">
+      <texture textureID="Big Bars1"/>
+      <texture textureID="Big Bars3"/>
+      <texture textureID="Big Bars4"/>
+    </idquence>
+    
+    <!--HealthPoint Enemy-->
+    <idquence id="EnemyHP" Count="3" width="11" height="7">
+      <texture textureID="Small Bars1"/>
+      <texture textureID="Small Bars2"/>
+      <texture textureID="Small Bars3"/>
+    </idquence>
+
+    <!--Colors-->
+    <idquence id="Colors" Count="4" width="32" height="2">
+      <texture textureID="Colors1"/>
+      <texture textureID="Colors2"/>
+      <texture textureID="Colors3"/>
+      <texture textureID="Colors4"/>
+    </idquence>  
+</animations>

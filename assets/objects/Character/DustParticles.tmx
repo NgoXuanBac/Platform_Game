@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <sequence id="Dust particles fall" frameCount="5" speed="6" width="64" height="40">
+      <frame textureID="Dust particles fall1"/>
+      <frame textureID="Dust particles fall2"/>
+      <frame textureID="Dust particles fall3"/>
+      <frame textureID="Dust particles fall4"/>
+      <frame textureID="Dust particles fall5"/>
+    </sequence>
+    
+    <sequence id="Dust particles jump" frameCount="6" speed="3" width="64" height="40">
+      <frame textureID="Dust particles jump1"/>
+      <frame textureID="Dust particles jump2"/>
+      <frame textureID="Dust particles jump3"/>
+      <frame textureID="Dust particles jump4"/>
+      <frame textureID="Dust particles jump5"/>
+      <frame textureID="Dust particles jump6"/>
+    </sequence>
+    
+    <sequence id="Dust particles run" frameCount="5" speed="5" width="64" height="40">
+      <frame textureID="Dust particles run1"/>
+      <frame textureID="Dust particles run2"/>
+      <frame textureID="Dust particles run3"/>
+      <frame textureID="Dust particles run4"/>
+      <frame textureID="Dust particles run5"/>
+    </sequence>
+
+</animations>
